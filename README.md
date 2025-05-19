@@ -1,10 +1,11 @@
 ## About Fork
-This project forked from <a href="https://github.com/ammargitham/WallFlow"> . 
+This project forked from <a href="https://github.com/ammargitham/WallFlow">WallFlow</a>
 ## To Do
 - [ ] Sort by size
 - [ ] Fix download error
 - [ ] Clear search history
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
+---
 
 <div align="center">
   <img width="200" height="200" src=".github/assets/icon.svg" alt="WallFlow" title="WallFlow">
